@@ -2,7 +2,7 @@ body{
   background-color: black;
 }
 .app-title{
-  color: lime;
+  color: yellow;
 }
 #btnaddNewTask {
     display:inline-block;
